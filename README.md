@@ -10,13 +10,6 @@ Performing data analysis on the iris dataset in a Rust kernel.
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain nightly
 ```
 
-- Create a new project and cd into it:
-
-```sh
-cargo new project
-cd project
-```
-
 - Install [Jupyter Notebook](https://jupyter.org/install).
 
 - Install `evcxr_jupyter`
