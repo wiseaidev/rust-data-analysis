@@ -31,6 +31,6 @@ Make sure you have the rust kernel selected from the top right corner of the ker
 
 I have written a series of articles titled:
 
-1. [Rust: The Next Big Thing in Data Science](https://wiseai.medium.com/rust-the-next-big-thing-in-data-science-319a03305883?source=user_profile---------0----------------------------): In this article, you will delve into the exciting world of Rust libraries for exploratory data analysis on the famed iris dataset.
+1. [Rust: The Next Big Thing in Data Science](https://wiseai.medium.com/rust-the-next-big-thing-in-data-science-319a03305883?source=user_profile---------0----------------------------): In this article, you will delve into the exciting world of Rust libraries for exploratory data analysis on the famed iris dataset. You can open [this notebook](./1-iris-data-analysis-rust.ipynb) associated with this article to follow along.
 
-1. TODO
+1. TODO. You can open up [this notebook](./2-ndarray-tutorial.ipynb) associated with this article to follow along.
