@@ -1,6 +1,6 @@
 # Rust EDA
 
-Performing data analysis on the iris dataset in a Rust kernel.
+This repository is a collection of Jupyter notebooks, all powered by a Rust kernel. With these notebooks, you'll be able to dive deep into the realm of data analysis with Rust, exploring different datasets and extracting insights with ease using different Rust libraries such as ndarray, plotters, and much more.
 
 ## Steps
 
@@ -25,6 +25,12 @@ evcxr_jupyter --install
 jupyter notebook
 ```
 
-Make sure you have the rust kernel is selected from the top right corner of the kernel. You should see the official rust logo.
+Make sure you have the rust kernel selected from the top right corner of the kernel. You should see the official Rust logo.
 
-For more info, you can refer to [this medium article](https://towardsdatascience.com/rust-the-next-big-thing-in-data-science-319a03305883).
+## Resources
+
+I have written a series of articles titled:
+
+1. [Rust: The Next Big Thing in Data Science](https://wiseai.medium.com/rust-the-next-big-thing-in-data-science-319a03305883?source=user_profile---------0----------------------------): In this article, you will delve into the exciting world of Rust libraries for exploratory data analysis on the famed iris dataset.
+
+1. TODO
