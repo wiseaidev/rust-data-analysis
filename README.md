@@ -1,5 +1,12 @@
 # Rust EDA
 
+<div align="center">
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)
+
+</div>
+
 This repository is a collection of Jupyter notebooks, all powered by a Rust kernel. With these notebooks, you'll be able to dive deep into the realm of data analysis with Rust, exploring different datasets and extracting insights with ease using different Rust libraries such as ndarray, plotters, and much more.
 
 ## Steps
