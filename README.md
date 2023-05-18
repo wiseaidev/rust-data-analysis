@@ -4,28 +4,26 @@ This repository is a collection of Jupyter notebooks, all powered by a Rust kern
 
 ## Steps
 
-- Install rust toolchain:
+- Install a Rust toolchain (e.g. nightly):
 
 ```sh
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain nightly
 ```
 
-- Install [Jupyter Notebook](https://jupyter.org/install).
+- Install [`Jupyter`](https://jupyter.org/install).
 
-- Install `evcxr_jupyter`
+- Install [`evcxr_jupyter`](https://github.com/evcxr/evcxr/blob/main/evcxr_jupyter/README.md)
 
 ```sh
 cargo install evcxr_jupyter
 evcxr_jupyter --install
 ```
 
-- Run the notebook:
+- Run Jupyter:
 
 ```sh
 jupyter notebook
 ```
-
-Make sure you have the rust kernel selected from the top right corner of the kernel. You should see the official Rust logo.
 
 ## Resources
 
@@ -35,6 +33,6 @@ I have written a series of articles titled:
 
 1. [The Ultimate Ndarray Handbook: Mastering the Art of Scientific Computing with Rust](https://towardsdatascience.com/the-ultimate-ndarray-handbook-mastering-the-art-of-scientific-computing-with-rust-ef5ab767212a): This article is an overview of different Rust’s built-in data structures and a deep dive into the Ndarray library. You can open up [this notebook](./2-ndarray-tutorial.ipynb) associated with this article to follow along.
 
-1. Todo. This article is part 1 of exploring the Polars library. You can open up [this notebook](./3-polars-tutorial-part-1.ipynb) associated with this article to follow along.
+1. [Rust Polars: Unlocking High-Performance Data Analysis — Part 1](https://towardsdatascience.com/rust-polars-unlocking-high-performance-data-analysis-part-1-ce42af370ece). This article is part 1 of exploring the Polars library. You can open up [this notebook](./3-polars-tutorial-part-1.ipynb) associated with this article to follow along.
 
-1. Todo. This article is part 2 of exploring the Polars library. You can open up [this notebook](./4-polars-tutorial-part-2.ipynb) associated with this article to follow along.
+1. [Rust Polars: Unlocking High-Performance Data Analysis — Part 2](https://towardsdatascience.com/rust-polars-unlocking-high-performance-data-analysis-part-2-7c58a3cb7a1f). This article is part 2 of exploring the Polars library. You can open up [this notebook](./4-polars-tutorial-part-2.ipynb) associated with this article to follow along.
