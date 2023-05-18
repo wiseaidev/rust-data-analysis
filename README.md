@@ -36,3 +36,7 @@ I have written a series of articles titled:
 1. [Rust Polars: Unlocking High-Performance Data Analysis — Part 1](https://towardsdatascience.com/rust-polars-unlocking-high-performance-data-analysis-part-1-ce42af370ece). This article is part 1 of exploring the Polars library. You can open up [this notebook](./3-polars-tutorial-part-1.ipynb) associated with this article to follow along.
 
 1. [Rust Polars: Unlocking High-Performance Data Analysis — Part 2](https://towardsdatascience.com/rust-polars-unlocking-high-performance-data-analysis-part-2-7c58a3cb7a1f). This article is part 2 of exploring the Polars library. You can open up [this notebook](./4-polars-tutorial-part-2.ipynb) associated with this article to follow along.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wiseaidev/rust-data-analysis&type=Date)](https://star-history.com/#wiseaidev/rust-data-analysis&Date)
