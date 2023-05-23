@@ -1,5 +1,6 @@
 # 📚 Rust Data Analysis
 
+[![Gitter](https://img.shields.io/badge/GITTER-join%20chat-green.svg?logo=gitter&logoColor=white&color=black)](https://matrix.to/#/#rusty-data:gitter.im)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/wiseaidev)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg?logo=rust&logoColor=white)](https://www.rust-lang.org/)
