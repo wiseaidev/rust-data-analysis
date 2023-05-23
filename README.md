@@ -68,7 +68,7 @@ To use the notebooks in this repository, you need to set up your environment. Fo
 
 ## 🤝 Contributing
 
-We welcome contributions to enhance the Rust Data Analysis repository! To contribute, please follow these CONTRIBUING.md file guidelines. Thank you for helping make this project better!
+We welcome contributions to enhance the Rust Data Analysis repository! To contribute, please follow these [`CONTRIBUING.md`](CONTRIBUING.md) file guidelines. Thank you for helping make this project better!
 
 ## 📜 License
 
