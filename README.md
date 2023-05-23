@@ -3,7 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/wiseaidev)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg?logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg?logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue.svg?logo=Jupyter&logoColor=orange)](https://jupyter.org/)
 [![GitHub contributors](https://badgen.net/github/contributors/wiseaidev/rust-data-analysis)](https://github.com/wiseaidev/rust-data-analysis/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/wiseaidev/rust-data-analysis.svg)](https://github.com/wiseaidev/rust-data-analysis/issues/)
