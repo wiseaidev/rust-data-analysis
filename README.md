@@ -6,8 +6,6 @@
 [![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg?logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue.svg?logo=Jupyter&logoColor=orange)](https://jupyter.org/)
-[![GitHub contributors](https://badgen.net/github/contributors/wiseaidev/rust-data-analysis)](https://github.com/wiseaidev/rust-data-analysis/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/wiseaidev/rust-data-analysis.svg)](https://github.com/wiseaidev/rust-data-analysis/issues/)
 
 Welcome to the Rust Data Analysis repository! This collection of Jupyter notebooks provides a comprehensive exploration of data analysis using Rust. Powered by a Rust kernel, these notebooks allow you to dive deep into the realm of data analysis, leveraging the capabilities of the Rust programming language. With the help of various Rust libraries, such as ndarray, plotters, and more, you'll be able to extract valuable insights from different datasets with ease.
 
