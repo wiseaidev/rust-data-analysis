@@ -1,0 +1,25 @@
+[package]
+name = "rust-data-analysis"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mahmoud Harmouch <oss@wiseai.dev>"]
+description = "Rust for data analysis encyclopedia."
+repository = "https://github.com/wiseaidev/rust-data-analysis"
+license = "Apache-2.0"
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+# Note: this is just a dummy cargo file contains all deps for Dependabot to update 
+
+[dependencies]
+blas-src = "0.9.0"
+chrono = "0.4.31"
+either = "1.9.0"
+evcxr = "0.17.0"
+ndarray = "0.15.6"
+ndarray-linalg = "0.16.0"
+ndarray-rand = "0.14.0"
+plotters = "0.3.5"
+polars = "0.35.4"
+smartcore = "0.3.2"
+statrs = "0.16.0"
