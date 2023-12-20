@@ -1,6 +1,6 @@
 [package]
 name = "rust-data-analysis"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Mahmoud Harmouch <oss@wiseai.dev>"]
 description = "Rust for data analysis encyclopedia."
