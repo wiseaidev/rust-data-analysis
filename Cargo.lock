@@ -184,9 +184,9 @@ checksum = "327762f6e5a765692301e5bb513e0d9fef63be86bbc14528052b1cd3e6f03e07"
 
 [[package]]
 name = "blas-src"
-version = "0.9.0"
+version = "0.10.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "aa443ee19b4cde6cdbd49043eb8964f9dd367b6d98d67f04395958ebfa28f39d"
+checksum = "b95e83dc868db96e69795c0213143095f03de9dd3252f205d4ac716e4076a7e0"
 
 [[package]]
 name = "bumpalo"
@@ -2730,7 +2730,7 @@ dependencies = [
 
 [[package]]
 name = "rust-data-analysis"
-version = "0.1.0"
+version = "0.1.2"
 dependencies = [
  "blas-src",
  "chrono",
