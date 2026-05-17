@@ -13,8 +13,8 @@ publish = false
 
 [dependencies]
 blas-src = "0.14.0"
-chrono = "0.4.31"
-either = "1.9.0"
+chrono = "=0.4.41" # pin because of polars V0.53.0 depends on it.
+either = "1.15.0"
 evcxr = "0.21.1"
 ndarray = "0.17.2"
 ndarray-linalg = "0.18.1"
