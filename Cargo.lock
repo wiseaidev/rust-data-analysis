@@ -4567,9 +4567,9 @@ checksum = "67b1b7a3b5fe4f1376887184045fcf45c69e92af734b7aaddc05fb777b6fbd03"
 
 [[package]]
 name = "smartcore"
-version = "0.5.0"
+version = "0.5.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "92d6270025c1e0ab2a9aa107d757805540b3f7dcb502347ab7b87b5f65573159"
+checksum = "3b38ed6e632271ca6f51685a4d00f49faf6e63c65be667855816114dc944321a"
 dependencies = [
  "approx",
  "cfg-if",
