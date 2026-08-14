@@ -84,4 +84,4 @@ This project is licensed under the [Apache License 2.0](https://opensource.org/l
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wiseaidev/rust-data-analysis&type=Date)](https://star-history.com/#wiseaidev/rust-data-analysis&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=wiseaidev/rust-data-analysis&type=Date)](https://star-history.dera.page/#wiseaidev/rust-data-analysis&type=Date)
